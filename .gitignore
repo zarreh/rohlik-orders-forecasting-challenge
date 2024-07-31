@@ -1,0 +1,15 @@
+model_test.ipynb
+
+# ignore ALL .log files
+*.log
+# *.csv
+*.gif
+*.pkl
+
+# ignore ALL files in ANY directory named temp
+model_registry/
+temp/
+# data/
+.ipynb_checkpoints/
+.mypy_cache/
+__pycache__/
