@@ -8,6 +8,7 @@ model_test.ipynb
 
 # ignore ALL files in ANY directory named temp
 model_registry/
+archive/
 temp/
 # data/
 .ipynb_checkpoints/
